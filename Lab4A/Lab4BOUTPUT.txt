@@ -1,0 +1,33 @@
+kyle@ubuntu:~/C Projects/Lab4$ ./testB
+Read: LIFESUPPORT: Adjusted the breathing gas levels inside the space ship!
+ 
+Time took to communicate: 2
+17:34:04
+
+Read: ENVIRONMENT: Adjusted the lighting and temperature levels!
+pace ship!
+ 
+Time took to communicate: 2
+17:34:06
+
+Read: LIFESUPPORT: Adjusted the breathing gas levels inside the space ship!
+ 
+Time took to communicate: 5
+17:34:37
+
+Read: ENVIRONMENT: Adjusted the lighting and temperature levels!
+pace ship!
+ 
+Time took to communicate: 4
+17:34:41
+
+Read: LIFESUPPORT: Adjusted the breathing gas levels inside the space ship!
+ 
+Time took to communicate: 3
+17:35:05
+
+Read: ENVIRONMENT: Adjusted the lighting and temperature levels!
+pace ship!
+ 
+Time took to communicate: 2
+17:35:07

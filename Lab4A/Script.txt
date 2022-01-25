@@ -1,0 +1,5 @@
+#!/bin/sh
+gcc -c getRandInt.c -o getRandInt.o
+ar -cr libgetRandInt.a getRandInt.o
+gcc -c Lab4B.c -o Lab4B.o
+gcc -o testB Lab4B.o -L. -lgetRandInt
